@@ -1,8 +1,9 @@
 #  C# Login And Registration Panel With Mysql + GunaUI
  C# Login And Registration Panel With Mysql + GunaUI
 using : 
-* dot Net
+* C#
 * Guna UI
+* Mysql Database
 
 
 ![Login](https://raw.githubusercontent.com/enessaltunbas/login-registration-panel-sql/main/ScreenShots/login.png)
